@@ -1,0 +1,5 @@
+1. cryptography is a tool to encrypt and decrypt our password files.
+2. So a password manager of database should be encrypted
+3. if you crete a key with name key1.key and its password fil as pass1.pass and 
+    another key as key2.key and password as pass2.pass and try to use key1.key with pass2.pass 
+    then it will throw an error
